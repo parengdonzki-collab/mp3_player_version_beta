@@ -1,0 +1,6 @@
+CTkMenuBar==0.9
+customtkinter==5.2.2
+mutagen==1.47.0
+pillow==12.2.0
+pygame-ce==2.5.7
+
